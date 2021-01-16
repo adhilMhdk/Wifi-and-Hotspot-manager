@@ -1,0 +1,3 @@
+include ':Manager'
+include ':app'
+rootProject.name = "Hotspot and Wifi manager"
